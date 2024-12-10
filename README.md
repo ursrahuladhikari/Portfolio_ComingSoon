@@ -1,5 +1,4 @@
-🚀 Portfolio Coming Soon Page
-Welcome to my Portfolio Coming Soon Page repository! 🚧
+🚀 Portfolio Coming Soon Page 🚧
 
 About the Project
 This is a "Coming Soon" page for my personal portfolio website. After the timer ends on this page, I will upload the fully functional portfolio website showcasing my skills, projects, and achievements.
